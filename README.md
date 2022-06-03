@@ -1,3 +1,3 @@
 # java-tomcat-sample-docker
 
-# tetsing git sqush
+# tetsing git squash
